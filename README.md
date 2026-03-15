@@ -2,7 +2,7 @@
 
 > Predict product sales from advertising spend using Linear Regression · Deployed on Streamlit
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sales-prediction-system-gphxzacs8cwsd5fiik3wot.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.9+-3670A0?logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3+-F7931E?logo=scikit-learn&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
